@@ -4,3 +4,13 @@
     box-sizing: border-box;
     font-family: "Space Mono", monospace;
 }
+
+body{
+    background-color: rgb(19, 19, 19);
+}
+
+h1{
+    color: white;
+    font-size: 5rem;
+    text-align: center;
+}
